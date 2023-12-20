@@ -447,7 +447,7 @@ body.dark-theme{
 .home__social{
   height: max-content;
   position: absolute;
-  left: -2.5rem;
+  left: -3rem;
   top: 0;
   bottom: 0;
   margin: auto 0;
@@ -456,7 +456,8 @@ body.dark-theme{
 }
 
 .home__social-link{
-  color: var(--black-color);
+  background-color: var(--black-color-light);
+  color: var(--white-color;
   font-size: 1.25rem;
   display: grid;
   place-content: center;
