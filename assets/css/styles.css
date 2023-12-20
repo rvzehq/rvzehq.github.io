@@ -460,6 +460,7 @@ body.dark-theme{
   color: var(--white-color;
   font-size: 1.25rem;
   display: grid;
+  padding: 6px;
   place-content: center;
   transition: background-color .3s;
 }
